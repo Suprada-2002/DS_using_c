@@ -11,6 +11,8 @@ struct Node {
 
 struct Node *front=NULL, *rear=NULL;
 
+
+
 int main(){
     int choice;
     while(1){
